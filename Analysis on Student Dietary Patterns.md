@@ -1,4 +1,4 @@
-# Analysis on Student Dietary Patterns
+# Clustering Analysis on Dietary Patterns
 
 ## Executive Summary
 This study analyzes the dietary patterns of 150 students based on their average daily intake of protein, fat and carbohydrates utilizing the JMP software. The dataset is analyzed employing Hierarchical Cluster analysis, identifying three different clusters of diverging dietary patterns: cluster 1 characterized by moderate protein intake, high fat intake, and moderate carbohydrate intake; cluster 2 characterized by low protein intake, high fat intake, and high carbohydrate intake; and cluster 3 characterized by high protein intake, low fat intake, and low carbohydrate intake. These differences were found to be statistically significant across the clusters through ANOVA and post hoc tests. The findings can inform educational initiatives targeted towards improving nutrition and eating habits addressing specific needs of different student groups. Further research could be conducted to explore the variables influencing differences across clusters to improve nutritional strategies further.
