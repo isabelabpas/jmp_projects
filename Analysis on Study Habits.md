@@ -41,7 +41,7 @@ The three divergent resulting clusters indicate that students do not allocate eq
 </div>
 <br>
 
-The proportion of males and females in each of the three clusters is displayed the mosaic plot in Figure 2. Additionally, through a Chi-Square test, the relationship was statistically examined, yielding a p-value <i> (Prob>ChiSq) </i> of 0.0448, displaying a statistically significant difference between the distribution of males and females across the clusters. However, to then comprehend the combined effects of gender and cluster membership, a regression analysis through the Fit Least Squares technique was conducted.  
+The proportion of males and females in each of the three clusters is displayed the mosaic plot in Figure 2. Additionally, through a Chi-Square test, the relationship was statistically examined, yielding a p-value (Prob>ChiSq) of 0.0448, displaying a statistically significant difference between the distribution of males and females across the clusters. However, to then comprehend the combined effects of gender and cluster membership, a regression analysis through the Fit Least Squares technique was conducted.  
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5ef6c9da-1965-482e-9445-cc6b9a4ab75d" width="300"/>
